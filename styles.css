@@ -1,0 +1,34 @@
+body {
+background-color: #ede7d9;
+}
+
+h3 {
+    font-size: 44pt;
+    font-family: "Cormorant Garamond";
+    color: #46494c;
+}
+
+h5 {
+    font-size: 18pt;
+    color: #46494c;
+}
+
+h4 {
+    font-size: 28pt;
+    color: #46494c;
+}
+
+p {
+    font-size: 20pt;
+    color: #46494c;
+}
+
+
+img {
+    max-width: 50%;
+    height: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+}
