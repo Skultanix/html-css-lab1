@@ -1,28 +1,39 @@
+
 body {
 background-color: #ede7d9;
 }
 
 h3 {
-    font-size: 44pt;
-    font-family: "Cormorant Garamond";
+    margin-top: 2%;
+    margin-bottom: 0%;
+    font-size: 56pt;
+    font-family: 'Cormorant Garamond', serif;
     color: #46494c;
 }
 
 h5 {
+    margin-top: 1%;
+    margin-bottom: 2%;
     font-size: 18pt;
     color: #46494c;
+    font-family: 'Fira Sans Condensed', sans-serif;
 }
 
 h4 {
-    font-size: 28pt;
+    margin-top: 1%;
+    margin-left: 12%;
+    margin-bottom: 1%;
+    font-size: 24pt;
     color: #46494c;
 }
 
 p {
+    width: 80%;
+    margin-left: 12%;
     font-size: 20pt;
     color: #46494c;
+    font-family: 'Fira Sans Condensed', sans-serif;
 }
-
 
 img {
     max-width: 50%;
@@ -31,4 +42,11 @@ img {
     margin-left: auto;
     margin-right: auto;
     border-radius: 6%;
+}
+.secondaryImage {
+    max-height: 20%;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
